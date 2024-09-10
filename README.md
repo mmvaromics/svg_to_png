@@ -4,7 +4,9 @@ DESCRIPTION:
 Windows Batch File (.bat) for multi-export from Inkscape: export multiple images from .svg to .png using Inkscape in Windows 10 (using command prompt commands).
 
 INSTRUCTIONS:
+
 1 - Place the .svg files you want to export in the same directory as the .bat file (i.e. in the same folder);
+
 2 - Double-click the .bat file and wait for all files to be exported (for many files it may take a few moments).
 
 NOTE:
